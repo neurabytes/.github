@@ -1,4 +1,11 @@
-## Hi there 👋
+## Welcome to the Neurabytes Students 🙌
+
+Here are some of the most useful repositories: 
+
+* 👩‍💻 [Automated Development Tools Setup](https://github.com/neurabytes/nb-automation-devtools)
+* 🙋‍♀️ [Start Right - Checklist for new Students](https://www.neurabytes.com/students/start-right)
+
+
 
 <!--
 
