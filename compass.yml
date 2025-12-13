@@ -1,0 +1,13 @@
+name: .github
+id: ari:cloud:compass:d7a6c568-0b4f-4b12-aa39-555f70febc24:component/2c0b9004-3ba7-4605-81c6-f4cb7ab59730/2c43908d-0a4e-4666-89b4-f57920469cb1
+description: null
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
